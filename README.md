@@ -27,16 +27,16 @@ Key idea:
 8.The system automatically recalculates the route when conditions change.
 
 Special Features
-🗺️ Interactive 2D/3D station map
-📍 Indoor location detection using QR/BLE
-🚶 Step-by-step navigation
-♿ Wheelchair-friendly routing
-👁️ Voice navigation for visually impaired passengers
-🗣️ Multilingual support
-🖥️ Digital station kiosks
-🔄 Real-time facility/status updates
-🚨 Emergency/alternate route
-📱 QR handoff from kiosk to mobile
+🗺️ Interactive 2D/3D station map                
+📍 Indoor location detection using QR/BLE         
+🚶 Step-by-step navigation            
+♿ Wheelchair-friendly routing            
+👁️ Voice navigation for visually impaired passengers         
+🗣️ Multilingual support          
+🖥️ Digital station kiosks                  
+🔄 Real-time facility/status updates            
+🚨 Emergency/alternate route                      
+📱 QR handoff from kiosk to mobile            
 
 ## Proposed Solution / Architecture Diagram
 
