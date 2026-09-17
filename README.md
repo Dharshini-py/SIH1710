@@ -144,33 +144,33 @@ Staff can update station maps, facility locations and temporary closures through
 ## Dependencies
 
 # Hardware Dependencies
-Smartphone/tablet
-Digital touchscreen kiosk
-QR codes
-Optional BLE beacons
-Internet/Wi-Fi connectivity
-Station display systems
+Smartphone/tablet       
+Digital touchscreen kiosk        
+QR codes                    
+Optional BLE beacons               
+Internet/Wi-Fi connectivity          
+Station display systems          
+                              
+# Software Dependencies          
+Flutter/React Native         
+Python             
+Flask/FastAPI              
+Firebase/PostgreSQL                          
+Mapping/3D visualization libraries             
+Text-to-Speech APIs                 
+Speech recognition APIs                   
 
-# Software Dependencies
-Flutter/React Native
-Python
-Flask/FastAPI
-Firebase/PostgreSQL
-Mapping/3D visualization libraries
-Text-to-Speech APIs
-Speech recognition APIs
-
-# Data Dependencies
-Accurate railway station floor plans
-Platform and facility locations
-Lift, escalator and staircase locations
-Accessibility information
-Real-time facility status
-Station layout updates
-Emergency exit locations
-
-# External Dependencies
-Railway station infrastructure
-Railway APIs/services, if available
-Indoor positioning infrastructure
-Permission/access for station mapping and deployment
+# Data Dependencies                            
+Accurate railway station floor plans        
+Platform and facility locations            
+Lift, escalator and staircase locations          
+Accessibility information        
+Real-time facility status        
+Station layout updates         
+Emergency exit locations           
+                               
+# External Dependencies             
+Railway station infrastructure              
+Railway APIs/services, if available            
+Indoor positioning infrastructure                       
+Permission/access for station mapping and deployment               
